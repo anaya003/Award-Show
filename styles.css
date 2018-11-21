@@ -1,0 +1,42 @@
+body { 
+    background: grey;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: Helvetica;
+}
+
+p {
+    text-align:center;
+    font-family: 'Sanchez', serif;
+}
+.dog {
+    font-family: 'Noto Serif KR', sans-serif;
+}
+
+.cat {
+    font-family: 'Cantata One', serif;
+}
+
+.jungkook {
+    font-family: 'Black Ops One', cursive;
+}
+
+.jimin {
+    font-family: 'Black Ops One', cursive;
+}
+
+img {
+    height: 500px;
+
+}
